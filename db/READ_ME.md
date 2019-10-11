@@ -1,0 +1,1 @@
+The db package contains code for querying and using databases, each database having its own package
